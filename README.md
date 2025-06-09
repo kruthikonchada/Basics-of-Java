@@ -11,6 +11,7 @@ CoreJava/
 │   ├── PalindromeRange.java
 │   ├── PefectSquare.java
 │   ├── PrimeNumber.java
+│   ├── MatrixPrime.java
 │   └── PrimeRange.java
 │
 └── README.md
