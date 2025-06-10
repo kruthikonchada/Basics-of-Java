@@ -12,6 +12,8 @@ CoreJava/
 │   ├── PefectSquare.java
 │   ├── PrimeNumber.java
 │   ├── MatrixPrime.java
+│   ├── ArrayReverse.java
+│   ├── MthPrimeSumMultiply.java
 │   └── PrimeRange.java
 │
 └── README.md
