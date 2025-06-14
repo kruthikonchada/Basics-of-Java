@@ -15,6 +15,7 @@ CoreJava/
 │   ├── ArrayReverse.java
 │   ├── MthPrimeSumMultiply.java
 │   ├── MinimumOperations.java
+│   ├── ZigZagPattern.java
 │   └── PrimeRange.java
 │
 └── README.md
@@ -43,6 +44,7 @@ Program Dscriptions:
 | ArrayReverse.java             | Prints reverse of an array                                                      |
 | MthPrimeSumMultiply.java      | Finds the m-th prime number, calculates its digit sum, and multiplies both      |
 | MinimumOperations.java        | Calculates the minimum operations to make three integers equal                  |
+| ZigZagPattern.java            | Print the matrix in reverse order for every odd row                             |
 
 Topics that ar covered:
 -> Conditional statements
